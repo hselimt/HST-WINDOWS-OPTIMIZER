@@ -1,4 +1,4 @@
-# HST WINDOWS UTILITY
+# HST WINDOWS OPTIMIZER
 
 ![HST Interface](./HST.png)
 
